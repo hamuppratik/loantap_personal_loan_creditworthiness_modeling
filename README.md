@@ -1,1 +1,1 @@
-# loantap_personal_loan_creditworthiness_modeling
+# loantap_personal_loan_creditworthiness_modeling - Logistic Regression
