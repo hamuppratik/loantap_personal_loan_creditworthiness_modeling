@@ -1,4 +1,5 @@
 LoanTap Underwriting Model:
+- LoanTap is an online platform that offers flexible loan products to salaried professionals.
 
 In this project, LoanTap aimed to develop an underwriting model to assess the creditworthiness of individuals seeking personal loans. The model's objective was to evaluate attributes to determine loan approval and recommend appropriate repayment terms, aligning with LoanTap's commitment to flexible, consumer-friendly loans for salaried professionals and businessmen.
 
